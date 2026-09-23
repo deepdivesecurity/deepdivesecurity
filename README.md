@@ -1,4 +1,4 @@
-# DeepDiveSecurity
+# Deep Dive Security
 <!--
 **deepdivesecurity/deepdivesecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
@@ -47,4 +47,13 @@
   </table>
 </div>
 
-## About Me
+## 👤 About Me
+- I build security-related projects.
+
+### Current Major Projects
+- See pinned repositories below.
+
+### Current Learning
+- Studying for CISSP exam
+- Staying up to date on system design
+- Learning new AI topics and skills
