@@ -47,13 +47,19 @@
   </table>
 </div>
 
-## 👤 About Me
-- I build security-related projects.
+<h2>
+  👤 About Me
+  &nbsp;
+  <a href="https://github.com/deepdivesecurity">
+    <img
+      src="https://img.shields.io/github/followers/deepdivesecurity?label=follow&style=social"
+      alt="Follow deepdivesecurity on GitHub"
+    >
+  </a>
+</h2>
 
-### Current Major Projects
-- See pinned repositories below.
+<p><em>Cloud Architect - Security</em></p>
 
-### Current Learning
-- Studying for CISSP exam
-- Staying up to date on system design
-- Learning new AI topics and skills
+- 🌱 &nbsp;I’m currently studying for the **CISSP**
+- 📖 &nbsp;Learn more about my projects on my **[blog](https://deepdivesecurity.ca)**
+- 📬 &nbsp;Ask me anything on my **[issues page](https://github.com/deepdivesecurity/deepdivesecurity/issues/1)**
