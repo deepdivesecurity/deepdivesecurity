@@ -13,23 +13,9 @@
 </div>
 
 <!-- Github Stats -->
-<p align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
-</p>
-
-<p align="center">
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-sand-93.vercel.app/api?username=deepdivesecurity&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true&border_radius=5" />
-    </td>
-    <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats-ten-blush.vercel.app?user=deepdivesecurity&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-</p>
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## 🛠️ Tech Stack & Skills
 <table width="100%", border="0">
