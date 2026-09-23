@@ -3,6 +3,23 @@
 **deepdivesecurity/deepdivesecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
+<h2>
+  👤 About Me
+  &nbsp;
+  <a href="https://github.com/deepdivesecurity">
+    <img
+      src="https://img.shields.io/github/followers/deepdivesecurity?label=follow&style=social"
+      alt="Follow deepdivesecurity on GitHub"
+    >
+  </a>
+</h2>
+
+<p><em>Cloud Architect - Security</em></p>
+
+- 🌱 &nbsp;I’m currently studying for the **CISSP**
+- 📖 &nbsp;Learn more about my projects on my **[blog](https://deepdivesecurity.ca)**
+- 📬 &nbsp;Ask me anything on my **[issues page](https://github.com/deepdivesecurity/deepdivesecurity/issues/1)**
+
 ## 🐙 GitHub Stats
 <!-- LOC Stats SVG -->
 <div align="center">
@@ -46,20 +63,3 @@
     </tr>
   </table>
 </div>
-
-<h2>
-  👤 About Me
-  &nbsp;
-  <a href="https://github.com/deepdivesecurity">
-    <img
-      src="https://img.shields.io/github/followers/deepdivesecurity?label=follow&style=social"
-      alt="Follow deepdivesecurity on GitHub"
-    >
-  </a>
-</h2>
-
-<p><em>Cloud Architect - Security</em></p>
-
-- 🌱 &nbsp;I’m currently studying for the **CISSP**
-- 📖 &nbsp;Learn more about my projects on my **[blog](https://deepdivesecurity.ca)**
-- 📬 &nbsp;Ask me anything on my **[issues page](https://github.com/deepdivesecurity/deepdivesecurity/issues/1)**
