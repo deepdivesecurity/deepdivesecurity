@@ -15,9 +15,9 @@
 </h2>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top", align="left">
         <p><em>Cloud Architect - Security</em></p>
         <ul>
           <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
@@ -64,7 +64,7 @@
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
-  <table width="100%", border="0">
+  <table width="100%" border="0">
     <tr>
       <td align="center" width="50%">
         <strong>Languages</strong><br>
