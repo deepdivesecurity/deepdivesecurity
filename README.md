@@ -5,7 +5,29 @@
 !-->
 
 ## 🛠️ Tech Stack/Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,c,bash,terraform,github,docker,aws,gcp,azure,ai,kali)](https://skillicons.dev)
-
-### OS
-[![My OS](https://skillicons.dev/icons?i=apple,windows,kali,ubuntu)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=py,js,c,bash,terraform&perline=5"
+           height="32">
+    </td>
+    <td align="center">
+      <strong>CSPs</strong><br>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=3"
+           height="32">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>OS</strong><br>
+      <img src="https://skillicons.dev/icons?i=apple,windows,kali,ubuntu&perline=4"
+           height="32">
+    </td>
+    <td align="center">
+      <strong>Other</strong><br>
+      <img src="https://skillicons.dev/icons?i=github,docker,ai&perline=3"
+           height="32">
+    </td>
+  </tr>
+</table>
