@@ -13,8 +13,10 @@
 </div>
 
 <!-- Github Stats -->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<div align="center">
+  <img src="./profile/stats.svg" alt="Stats" height="195">
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="195">
+</div>
 
 ## 🛠️ Tech Stack & Skills
 <table width="100%", border="0">
