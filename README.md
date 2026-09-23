@@ -13,37 +13,40 @@
     >
   </a>
 </h2>
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <p><em>Cloud Architect - Security</em></p>
-      <ul>
-        <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
-        <li>📖 &nbsp;Learn more about my projects on my <strong><a href="https://deepdivesecurity.ca">blog</a></strong></li>
-        <li>📬 &nbsp;Ask me anything on my <strong><a href="https://github.com/deepdivesecurity/deepdivesecurity/issues/1">issues page</a></strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <strong>Certifications</strong><br><br>
-      <img src="assets/img/CEH.png"
-           alt="Certified Ethical Hacker Master"
-           height="100">
-      <img src="assets/img/ccsk.png"
-           alt="CCSK"
-           height="100">
-      <img src="assets/img/aws_solutions_architect.png"
-           alt="AWS Solutions Architect Associate"
-           height="100">
-      <br>
-      <img src="assets/img/aws_certified_cloud_practitioner.png"
-           alt="AWS Certified Cloud Practitioner"
-           height="100">
-      <img src="assets/img/terraform_certificate.png"
-           alt="HashiCorp Certified Terraform Associate"
-           height="100">
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top">
+        <p><em>Cloud Architect - Security</em></p>
+        <ul>
+          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
+          <li>📖 &nbsp;Learn more about my projects on my <strong><a href="https://deepdivesecurity.ca">blog</a></strong></li>
+          <li>📬 &nbsp;Ask me anything on my <strong><a href="https://github.com/deepdivesecurity/deepdivesecurity/issues/1">issues page</a></strong></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <strong>Certifications</strong><br><br>
+        <img src="assets/img/CEH.png"
+            alt="Certified Ethical Hacker Master"
+            height="100">
+        <img src="assets/img/ccsk.png"
+            alt="CCSK"
+            height="100">
+        <img src="assets/img/aws_solutions_architect.png"
+            alt="AWS Solutions Architect Associate"
+            height="100">
+        <br>
+        <img src="assets/img/aws_certified_cloud_practitioner.png"
+            alt="AWS Certified Cloud Practitioner"
+            height="100">
+        <img src="assets/img/terraform_certificate.png"
+            alt="HashiCorp Certified Terraform Associate"
+            height="100">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🐙 GitHub Stats
 <!-- LOC Stats SVG -->
