@@ -15,7 +15,6 @@
 <!-- Github Stats -->
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## 🛠️ Tech Stack & Skills
 <table width="100%", border="0">
