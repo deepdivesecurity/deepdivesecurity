@@ -17,7 +17,7 @@
 <div align="center">
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="60%" valign="top">
         <p><em>Cloud Architect - Security</em></p>
         <ul>
           <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
@@ -25,7 +25,7 @@
           <li>📬 &nbsp;Ask me anything on my <strong><a href="https://github.com/deepdivesecurity/deepdivesecurity/issues/1">issues page</a></strong></li>
         </ul>
       </td>
-      <td width="50%" valign="top" align="center">
+      <td width="40%" valign="top" align="center">
         <strong>Certifications</strong><br><br>
         <img src="assets/img/CEH.png"
             alt="Certified Ethical Hacker Master"
