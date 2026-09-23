@@ -43,6 +43,9 @@
         <img src="assets/img/terraform_certificate.png"
             alt="HashiCorp Certified Terraform Associate"
             height="100">
+        <img src="assets/img/microsoft_security_and_compliance.png"
+            alt="Microsoft Security, Compliance, & Identity Fundamentals"
+            height="100">
       </td>
     </tr>
   </table>
