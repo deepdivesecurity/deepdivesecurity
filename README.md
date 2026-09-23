@@ -20,6 +20,18 @@
 - 📖 &nbsp;Learn more about my projects on my **[blog](https://deepdivesecurity.ca)**
 - 📬 &nbsp;Ask me anything on my **[issues page](https://github.com/deepdivesecurity/deepdivesecurity/issues/1)**
 
+<h3>Certifications</h3>
+<div align="center">
+  <p>
+    <img src="assets/img/CEH.png" alt="Certified Ethical Hacker Master" height="100">
+    <img src="assets/img/ccsk.png" alt="CCSK" height="100">
+    <img src="assets/img/aws_solutions_architect.png" alt="AWS Solutions Architect Associate" height="100">
+    <br>
+    <img src="assets/img/aws_certified_cloud_practitioner.png" alt="AWS Certified Cloud Practitioner" height="100">
+    <img src="assets/img/terraform_certificate.png" alt="HashiCorp Certified Terraform Associate" height="100">
+  </p>
+</div>
+
 ## 🐙 GitHub Stats
 <!-- LOC Stats SVG -->
 <div align="center">
