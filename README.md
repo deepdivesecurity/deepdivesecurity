@@ -26,7 +26,7 @@
     </td>
     <td align="center">
       <strong>Other</strong><br>
-      <img src="https://skillicons.dev/icons?i=github,docker,ai&perline=3"
+      <img src="https://skillicons.dev/icons?i=github,docker&perline=3"
            height="40">
     </td>
   </tr>
