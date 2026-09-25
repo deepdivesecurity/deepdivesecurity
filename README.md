@@ -26,7 +26,7 @@
         </ul>
       </td>
       <td width="50%" valign="top" align="center">
-        <strong>Certifications</strong><br><br>
+        <strong>Certifications/Certificates</strong><br><br>
         <img src="assets/img/CEH.png"
             alt="Certified Ethical Hacker Master"
             height="100">
