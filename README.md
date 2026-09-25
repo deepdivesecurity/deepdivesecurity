@@ -22,8 +22,9 @@
   &nbsp;
   <a href="https://deepdivesecurity.ca">
     <img
-      src="https://img.shields.io/badge/Website-0969DA"
-      alt="Website"
+      src="https://img.shields.io/badge/Website-Visit%20Site-0969DA?style=flat&logo=googlechrome&logoColor=white"
+      alt="Visit website"
+      height="20"
     >
   </a>
 </h2>
