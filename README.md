@@ -19,6 +19,13 @@
       alt="GitHub Sponsor"
     >
   </a>
+  &nbsp;
+  <a href="https://deepdivesecurity.ca">
+    <img
+      src="https://img.shields.io/badge/Website-0969DA"
+      alt="Website"
+    >
+  </a>
 </h2>
 
 <div align="center">
