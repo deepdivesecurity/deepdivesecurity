@@ -35,7 +35,14 @@
       <td width="50%" valign="top", align="left">
         <p><em>Cloud Architect - Security</em></p>
         <ul>
-          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
+          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong> using the following: </li>
+          <ul>
+            <li>ISC2 Online Self-Paced Training</li>
+            <li>Mike Chapple: ISC2 Certified Information Systems Security Professional (CISSP)</li>
+            <li>Destination CISSP - A Concise Guide</li>
+            <li>LearnZapp - CISSP <img src="https://img.shields.io/badge/Premium-B32624?style=flat" alt=""></li>
+            <li>Quantum Exams CISSP Test Prep with CAT</li>
+          </ul>
           <li>📖 &nbsp;Learn more about my projects on my <strong><a href="https://deepdivesecurity.ca">blog</a></strong></li>
           <li>📬 &nbsp;Ask me anything on my <strong><a href="https://github.com/deepdivesecurity/deepdivesecurity/issues/1">issues page</a></strong></li>
         </ul>
