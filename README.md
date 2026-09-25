@@ -35,14 +35,10 @@
       <td width="50%" valign="top", align="left">
         <p><em>Cloud Architect - Security</em></p>
         <ul>
-          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong> using the following: </li>
-          <ul>
-            <li><a href="https://www.isc2.org/training/online-self-paced/cissp-online-self-paced">ISC2 Online Self-Paced Training</a></li>
-            <li><a href="https://www.linkedin.com/learning/isc2-certified-information-systems-security-professional-cissp-2024-cert-prep">Mike Chapple: ISC2 Certified Information Systems Security Professional (CISSP)</a></li>
-            <li><a href="https://destcert.com/cissp/guidebook/" target="_blank">Destination CISSP - A Concise Guide</a></li>
-            <li><a href="https://www.learnzapp.com/apps/isc2/cissp/">LearnZapp - CISSP <img src="https://img.shields.io/badge/Premium-B32624?style=flat" alt="LearnZapp CISSP Premium"></a></li>
-            <li><a href="https://quantumexams.com/pricing.html">Quantum Exams CISSP Test Prep with CAT</a></li>
-          </ul>
+          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
+            <ul>
+              <li><a href="https://github.com/deepdivesecurity/CISSP-notes"><img src="https://img.shields.io/badge/Tracking HERE-B32624?style=flat" alt="CISSP tracking"></a></li>
+            </ul>
           <li>💻 &nbsp; Keeping up with system design using: </li>
             <ul>
               <li><a href="https://www.hellointerview.com">hellointerview <img src="https://img.shields.io/badge/Premium-10B981?style=flat" alt="hellointerview Premium"></a></li>
