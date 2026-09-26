@@ -27,6 +27,14 @@
       height="20"
     >
   </a>
+  &nbsp;
+  <a href="https://github.com/deepdivesecurity/keys">
+    <img 
+      src="https://img.shields.io/badge/GPG Key-B32624?style=flat&logo=KeePassXC&logoColor=white" 
+      alt="GPG Key"
+      height="20"
+      >
+  </a>
 </h2>
 
 <div align="center">
