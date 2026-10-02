@@ -57,21 +57,21 @@
       </td>
       <td width="50%" valign="top" align="center">
         <strong>Certifications/Certificates</strong><br><br>
-        <img src="assets/img/CEH.png"
-            alt="Certified Ethical Hacker Master"
+        <img src="assets/img/aws_solutions_architect.png"
+            alt="AWS Solutions Architect Associate"
+            height="100">
+        <img src="assets/img/aws_certified_cloud_practitioner.png"
+            alt="AWS Certified Cloud Practitioner"
             height="100">
         <img src="assets/img/ccsk.png"
             alt="CCSK"
             height="100">
-        <img src="assets/img/aws_solutions_architect.png"
-            alt="AWS Solutions Architect Associate"
-            height="100">
         <br>
-        <img src="assets/img/aws_certified_cloud_practitioner.png"
-            alt="AWS Certified Cloud Practitioner"
-            height="100">
         <img src="assets/img/terraform_certificate.png"
             alt="HashiCorp Certified Terraform Associate"
+            height="100">
+        <img src="assets/img/CEH.png"
+            alt="Certified Ethical Hacker Master"
             height="100">
         <img src="assets/img/microsoft_security_and_compliance.png"
             alt="Microsoft Security, Compliance, & Identity Fundamentals"
