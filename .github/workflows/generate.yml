@@ -21,8 +21,17 @@ jobs:
           fetch-depth: 0
 
       - name: Install Tokei
+        env: 
+          EXPECTED_SHA256: "c8c5c4ab9e1ff47e745de70f4af3214078657399fa7a0da0b5f209d780e49978"
         run: |
           curl -L "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-unknown-linux-gnu.tar.gz" -o tokei.tar.gz
+          ACTUAL_SHA256=$(sha256sum tokei.tar.gz | awk '{print $1}')
+          
+          if [ "$EXPECTED_SHA256" != "$ACTUAL_SHA256" ]; then
+            echo "SHA256 mismatch: expected $EXPECTED_SHA256, got $ACTUAL_SHA256"
+            exit 1
+          fi
+
           tar xzf tokei.tar.gz
           sudo mv tokei /usr/local/bin/
           tokei --version
