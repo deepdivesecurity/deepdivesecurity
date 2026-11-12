@@ -43,10 +43,6 @@
       <td width="50%" valign="top", align="left">
         <p><em>Cloud Architect - Security</em></p>
         <ul>
-          <li>🌱 &nbsp;I’m currently studying for the <strong>CISSP</strong></li>
-            <ul>
-              <li><a href="https://github.com/deepdivesecurity/CISSP-notes"><img src="https://img.shields.io/badge/Tracking HERE-B32624?style=flat" alt="CISSP tracking"></a></li>
-            </ul>
           <li>💻 &nbsp; Keeping up with system design using: </li>
             <ul>
               <li><a href="https://www.hellointerview.com">hellointerview <img src="https://img.shields.io/badge/Premium-10B981?style=flat" alt="hellointerview Premium"></a></li>
@@ -57,6 +53,9 @@
       </td>
       <td width="50%" valign="top" align="center">
         <strong>Certifications/Certificates</strong><br><br>
+        <img src="assets/img/cissp.png"
+          alt="CISSP"
+          height="100">      
         <img src="assets/img/aws_solutions_architect.png"
             alt="AWS Solutions Architect Associate"
             height="100">
