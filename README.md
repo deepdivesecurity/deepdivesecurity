@@ -29,8 +29,8 @@
   </a>
   &nbsp;
   <a href="https://github.com/deepdivesecurity/keys">
-    <img 
-      src="https://img.shields.io/badge/GPG Key-B32624?style=flat&logo=KeePassXC&logoColor=white" 
+    <img
+      src="https://img.shields.io/badge/GPG Key-B32624?style=flat&logo=KeePassXC&logoColor=white"
       alt="GPG Key"
       height="20"
       >
@@ -55,7 +55,7 @@
         <strong>Certifications/Certificates</strong><br><br>
         <img src="assets/img/cissp.png"
           alt="CISSP"
-          height="100">      
+          height="100">
         <img src="assets/img/aws_solutions_architect.png"
             alt="AWS Solutions Architect Associate"
             height="100">
