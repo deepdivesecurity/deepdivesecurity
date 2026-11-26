@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.0
+
+### Added or Changed
+- GitHub App authn for pushing README changes on existing GitHub Action workflow
+    - Modified GitHub Action workflow
+
 ## v1.0.1
 
 ### Added or Changed
