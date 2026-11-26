@@ -15,9 +15,18 @@ jobs:
       contents: write
 
     steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@f418cff399f7aef4c2f0ad47e25ca7a6abbdd6fc # v3.4.0
+        with:
+          client-id: ${{ vars.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Checkout repository
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
+          token: ${{ steps.app-token.outputs.token }}
+          persist-credentials: false
           fetch-depth: 0
 
       - name: Install Tokei
@@ -72,8 +81,8 @@ jobs:
 
       - name: Commit
         run: |-
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "repo-actions-bot"
+          git config --local user.email "repo-actions-bot@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Updated README" -a || exit 0
           git push
